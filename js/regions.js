@@ -60,7 +60,7 @@ const region_list = [
 [  510,  539,null,"Svatoslav","Wacho","Ardaryk"],
 ],
 [null,  525, 963,
-[  525, 805,null,"Royaume des Serbes Blancs","Kingdom of Sorbia","Królestwo Sorbów","Sorabes","Sorbs","Surbiów",7350,1270,0],
+[  525, 805,null,"Royaume des Serbes Blancs","Kingdom of Sorbia","Królestwo Sorbów","Sorabes","Sorbs","Surbiów",7450,1220,0],
 ["Roi","King","Król"],
 [ 560, 590,null,"Zuiesdodrago","Zvezdodrag","Zwezdodrogi"],
 [ 590, 615,null,"Beloslas","Beloslav","Boleslaw"],
